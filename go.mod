@@ -1,5 +1,9 @@
 module github.com/flockmill/website
 
-go 1.21
+go 1.22
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230919154732-c086834f0ebf // indirect
+toolchain go1.23.5
+
+require (
+	github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.11.2 // indirect
+)

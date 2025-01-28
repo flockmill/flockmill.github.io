@@ -1,11 +1,11 @@
 baseURL = 'https://flockmill.com/'
 languageCode = 'en-us'
 title = 'Flockmill'
-theme = 'github.com/theNewDynamic/gohugo-theme-ananke'
+theme = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 resourceDir = "../resources"
 
 #sectionPagesMenu = 'main'
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 
 [sitemap]
