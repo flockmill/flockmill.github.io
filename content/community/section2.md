@@ -1,8 +1,8 @@
 +++
-title = 'Section 2'
-date = 2023-05-01
+title = 'Neighbourhood Support'
 draft = false
 menu = 'Some of our efforts'
+weight = 2
 +++
 
 - [Meals with Impact](https://mealswithimpact.com.au/)

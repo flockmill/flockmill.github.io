@@ -1,5 +1,5 @@
 +++
-title = 'Landscape SubCommittee - Dec 2023'
+title = 'Landscape SubCommittee Report'
 date = 2023-12-01
 draft = false
 menu = 'Some of our efforts'

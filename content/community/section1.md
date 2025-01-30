@@ -1,8 +1,8 @@
 +++
-title = 'Section 1'
-date = 2023-05-01
+title = 'Local Info'
 draft = false
 menu = 'Some of our efforts'
+weight = 1
 +++
 
 - [Owners Corporation act](https://www.legislation.vic.gov.au/in-force/acts/owners-corporations-act-2006/021)

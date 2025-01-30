@@ -1,5 +1,5 @@
 +++
-title = 'Sustainability SubCommittee - Sept 2024'
+title = 'Sustainability SubCommittee Report'
 date = 2024-09-01
 draft = false
 menu = 'Some of our efforts'
