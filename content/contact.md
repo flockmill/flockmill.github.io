@@ -1,5 +1,4 @@
 +++
-menu = ['main', 'footer']
 title = 'Contacts'
 omit_header_text = true
 description = "Flockmill OCM"

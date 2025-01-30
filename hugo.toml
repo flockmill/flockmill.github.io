@@ -25,3 +25,33 @@ background_color_class = "bg-black"
 recent_posts_number = 3
 
 [[params.ananke_socials]]
+
+[[menu.main]]
+name = "About Our Community"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Some of our efforts"
+url = "/efforts/"
+weight = 2
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 3
+
+[[menu.main]]
+name = "Community Links"
+url = "/community/"
+weight = 4
+
+[[menu.main]]
+name = "Owners"
+url = "/owners/"
+weight = 5
+
+[[menu.main]]
+name = "Renters"
+url = "/renters/"
+weight = 6
