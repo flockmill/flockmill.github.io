@@ -2,7 +2,7 @@
 title = 'Landscape SubCommittee Report'
 date = 2023-08-08
 draft = false
-menu = 'Some of our efforts'
+menu = 'SubCommittees'
 +++
 
 Works undertaken by Landscape SubCommittee has been the completion of the:

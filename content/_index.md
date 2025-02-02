@@ -1,9 +1,9 @@
 ---
 title: "Flockmill"
 description: "Meet the flockers"
-theme_version: '2.8.2'
+theme_version: "2.8.2"
 cascade:
-  featured_image: '/images/stewart-street-artist-impression.jpg'
+  featured_image: "/images/stewart-street-artist-impression.jpg"
 ---
 
-Welcome to the flockmill site! Get the latest flocking news, tips, and information to how to be happy flocker. Flock yourself out!
+Welcome to Flockmill!

@@ -1,7 +1,7 @@
 +++
 title = 'Neighbourhood Support'
 draft = false
-menu = 'Some of our efforts'
+menu = 'SubCommittees'
 weight = 2
 +++
 

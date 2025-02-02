@@ -33,13 +33,13 @@ url = "/about/"
 weight = 1
 
 [[menu.main]]
-name = "Some of our efforts"
-url = "/efforts/"
+name = "Events"
+url = "/events/"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
-url = "/contact/"
+name = "SubCommittees"
+url = "/efforts/"
 weight = 3
 
 [[menu.main]]
@@ -48,11 +48,16 @@ url = "/community/"
 weight = 4
 
 [[menu.main]]
-name = "Owners"
-url = "/owners/"
+name = "Contact"
+url = "/contact/"
 weight = 5
 
-[[menu.main]]
-name = "Renters"
-url = "/renters/"
-weight = 6
+# [[menu.main]]
+# name = "Owners"
+# url = "/owners/"
+# weight = 6
+
+# [[menu.main]]
+# name = "Renters"
+# url = "/renters/"
+# weight = 7

@@ -4,4 +4,4 @@ draft = false
 title = 'Community Links'
 +++
 
-Find some helpful community resources below
+Find some helpful community resources below.

@@ -2,7 +2,7 @@
 title = 'Property SubCommittee Report'
 date = 2024-12-01
 draft = false
-menu = 'Some of our efforts'
+menu = 'SubCommittees'
 +++
 
 Dear Residents of Flockmill,

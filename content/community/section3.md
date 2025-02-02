@@ -1,7 +1,7 @@
 +++
 title = 'Mental Health'
 draft = false
-menu = 'Some of our efforts'
+menu = 'SubCommittees'
 weight = 3
 +++
 
