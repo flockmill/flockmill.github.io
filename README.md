@@ -2,7 +2,7 @@
 
 Main website for Flockmill owners corporation. This is built with the hugo static site generator.
 
-Using [this theme]<https://github.com/theNewDynamic/gohugo-theme-ananke>
+Using [this theme]<https://github.com/theNewDynamic/gohugo-theme-ananke> with some customisation overrides.
 
 ## Setup
 
