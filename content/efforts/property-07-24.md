@@ -2,7 +2,7 @@
 title = 'Property SubCommittee Report'
 date = 2024-07-21
 draft = false
-menu = 'Some of our efforts'
+menu = 'SubCommittees'
 +++
 
 Dear Flockmill,

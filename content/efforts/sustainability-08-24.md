@@ -2,7 +2,7 @@
 title = 'Sustainability SubCommittee Report'
 date = 2024-08-08
 draft = false
-menu = 'Some of our efforts'
+menu = 'SubCommittees'
 +++
 
 Working to update our Waste Management Plan with a comprehensive investigation into
