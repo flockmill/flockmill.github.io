@@ -22,7 +22,8 @@ site_logo = "images/logo-white-full@2x.png"
 description = "Flockmill"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
-recent_posts_number = 3
+recent_posts_number = 1
+mainSections = ["events", "efforts"]
 custom_css = ["/css/custom.css"]
 
 [[params.ananke_socials]]
